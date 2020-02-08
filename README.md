@@ -1,7 +1,7 @@
 # unbound-ads-filters
 Host files to Unbound format.
 
-          > local-zone: "domain.com" always_nxdomain
+> local-zone: "domain.com" always_nxdomain
 
 [Unbound](https://nlnetlabs.nl/projects/unbound/download/) is a validating, recursive and caching DNS resolver.
 
