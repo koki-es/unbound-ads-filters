@@ -6,7 +6,7 @@ This repository contain coverted host files from reputable link/hosts files in h
 
 List of all hosts file variants
 
- -  unbound-coin.host
+ - unbound-coin.host
  - unbound-tracking.host
  - unbound-ads-coin-tracking.host	 
  - unbound-ads-coin.host	
@@ -17,3 +17,7 @@ List of all hosts file variants
  - unbound-ads-fakenews.host
  - unbound-ads-porn.host 
  - unbound-ads.host 
+ 
+ Download your favorite combi to /etc/unbound and add it to > unbound.conf
+  > include: "/etc/unbound/unbound-ads-fakenews-gambling-coin.host"
+
