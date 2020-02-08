@@ -8,7 +8,7 @@ This repository contain coverted host files from reputable link/hosts files in h
  The files are updated weekly.
 
 
-List of all hosts file variants
+List of all files variants
 
  - unbound-coin.host
  - unbound-tracking.host
@@ -23,6 +23,7 @@ List of all hosts file variants
  - unbound-ads.host 
  
  Download your favorite flavour to **/etc/unbound** and add the **include** to **unbound.conf**
+ 
   > include: "/etc/unbound/unbound-example.host"
   
  
