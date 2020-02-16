@@ -13,7 +13,6 @@ This repository contain coverted host files from reputable link/hosts files in h
 
 List of all files variants
 
- - unbound-coin.host
  - unbound-tracking.host
  - unbound-ads-coin-tracking.host	 
  - unbound-ads-coin.host	
