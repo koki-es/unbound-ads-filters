@@ -8,7 +8,6 @@ Host files to Unbound format like:
 
 This repository contain coverted host files from reputable link/hosts files in https://github.com/StevenBlack/hosts and others, merges them into a unified hosts file with duplicates removed.
 
- The files are updated weekly.
 
 
 List of all files variants
