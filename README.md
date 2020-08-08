@@ -1,4 +1,4 @@
-# unbound-ads-filters
+# unbound-filters
 
 Host files to Unbound format like:
 
